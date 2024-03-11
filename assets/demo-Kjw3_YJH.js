@@ -1,0 +1,1 @@
+import{f as s,o as t,c as a,a as e,t as c,u as r,_}from"./app-czZv8p7x.js";function i(){return{name:"Glue6"}}const m={class:"demo-container"},u=e("p",null,"This is a vue preview demo.",-1),l=s({__name:"demo",setup(n){const{name:o}=i();return(d,p)=>(t(),a("div",m,[e("h3",null,"My name is "+c(r(o))+".",1),u]))}}),h=_(l,[["__file","demo.vue"]]);export{h as default};
